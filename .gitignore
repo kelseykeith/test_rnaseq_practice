@@ -1,0 +1,7 @@
+### folders to ignore
+rnaseq_data/
+
+### file types to ignore
+.fastq.gz
+.fq.gz
+.bam
